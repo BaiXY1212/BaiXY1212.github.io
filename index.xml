@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Bai Xueyi</title>
+    <link>https://baixy1212.github.io/</link>
+    <description>Recent content in Welcome on Bai Xueyi</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://baixy1212.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curated Favorites</title>
+      <link>https://baixy1212.github.io/likes/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://baixy1212.github.io/likes/</guid>
+      <description>A collection of things that inspire me.</description>
+    </item>
+    <item>
+      <title>Sensory Overload: My Experience at TeamLab</title>
+      <link>https://baixy1212.github.io/life/visiting-teamlab/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://baixy1212.github.io/life/visiting-teamlab/</guid>
+      <description>Thinking about the intersection of digital art, accessibility, and human emotion.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://baixy1212.github.io/about/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://baixy1212.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;hello-im-bai-xueyi&#34;&gt;Hello, I&amp;rsquo;m Bai Xueyi.&lt;/h2&gt;
+&lt;p&gt;I am currently a Master of Data Science student at &lt;strong&gt;Monash University&lt;/strong&gt;, expecting to transition into the Research Stream in 2026.&lt;/p&gt;
+&lt;p&gt;My academic journey began in the abstract world of &lt;strong&gt;Mathematics&lt;/strong&gt;, but my passion lies in grounding those theories to solve human-centric problems. I describe my work as sitting at the intersection of &lt;strong&gt;Data Science&lt;/strong&gt; and &lt;strong&gt;Human-Computer Interaction (HCI)&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;what-drives-me&#34;&gt;What drives me?&lt;/h3&gt;
+&lt;p&gt;I have a deep interest in &lt;strong&gt;Digital Culture&lt;/strong&gt; and &lt;strong&gt;Accessibility&lt;/strong&gt;.
+Visiting &lt;em&gt;TeamLab&lt;/em&gt;’s immersive exhibitions was a turning point for me—it solidified my belief that technology shouldn&amp;rsquo;t just be smart; it should be &lt;strong&gt;emotional&lt;/strong&gt; and &lt;strong&gt;inclusive&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Academic &amp; Career</title>
+      <link>https://baixy1212.github.io/academic/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://baixy1212.github.io/academic/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Master of Data Science&lt;/strong&gt; | &lt;em&gt;Monash University&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Current (Semester 2)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Plan:&lt;/strong&gt; Intending to enter the &lt;strong&gt;Research Stream&lt;/strong&gt; in Semester 1, 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Data Visualization, Machine Learning, Human-Computer Interaction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Science (Mathematics)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Background in pure mathematics, providing a strong foundation for algorithm analysis and statistical modeling.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-selected-projects&#34;&gt;💻 Selected Projects&lt;/h2&gt;
+&lt;h3 id=&#34;1-inclusive-museum-experience-for-the-blind&#34;&gt;1. Inclusive Museum Experience for the Blind&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Ongoing Research Project&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Context:&lt;/strong&gt; Designing a multi-sensory interaction model for museum exhibitions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, Data Sonification, HCI methodologies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Goal:&lt;/strong&gt; To translate visual artistic elements into auditory signals, allowing low-vision visitors to &amp;ldquo;hear&amp;rdquo; the artwork.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-maternal-health-outcome-prediction&#34;&gt;2. Maternal Health Outcome Prediction&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Coursework Project&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
